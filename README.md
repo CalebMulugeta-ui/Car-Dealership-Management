@@ -15,16 +15,6 @@ The project is built in **IntelliJ IDEA** using **pure Java** and provides an in
 
 ---
 
-## 🧱 Project Structure
-
-AutoPark-GUI-Project/
-├─ .idea/ # IntelliJ project config
-├─ src/ # Java source files (GUI + logic)
-├─ .gitignore
-└─ AutoPark GUI Project.iml # IntelliJ module file
-
----
-
 ## ▶️ Getting Started
 
 ### Prerequisites
