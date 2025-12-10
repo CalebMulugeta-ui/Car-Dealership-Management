@@ -1,4 +1,4 @@
-# AutoPark GUI Project
+# Car Dealership Management
 
 A simple Java GUI project for managing and visualizing parking operations.  
 The project is built in **IntelliJ IDEA** using **pure Java** and provides an interactive interface for simulating parking lot management.
